@@ -50,6 +50,10 @@ During this lab, you will work with a variety of datasets and practice how to us
 **Happy coding!** :heart:
 
 
+## Important Notes
+
+This lab is built on top of the `data cleaning and formatting` and `data structuring and combining` lab. If you couldn't complete those lasb, ask your TA for the lab solutions so you can do this lab on top of it.
+
 ## Requirements
 
 - Fork this repo
