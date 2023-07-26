@@ -73,7 +73,7 @@ git commit -m "Solved lab"
 git push origin master
 ```
 
-- Create a Pull Request so that your TAs can check your work.
+- Paste the link of your lab in Student Portal.
 
 
 ## FAQs
